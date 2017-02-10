@@ -23,6 +23,7 @@ namespace qaApplication
                 // driver.FindElementByXPath("//*button[@class='button expand carjojo-button strange-limey-yellow']").Click();
                 // Task.Delay(1000).Wait();
                 // driver.FindElementByXPath("//*[contains(text(), 'SHOW VEHICLES')]").Click();
+                // sample code existed.
             }
             catch(System.Exception ex)
             {
